@@ -8,5 +8,6 @@ En este repositorio solamente se encuentran disponibles wiki-topcats-categories 
 
 https://drive.google.com/drive/folders/1JVbTq51pOEbP2WgpcGCpGsQWwmJYGc03?usp=sharing
 
-Los documentos .cypher incluyen creación de nodos y relaciones y los queries empleados para la app.
-main.py es el archivo con nuestra app.
+Setup.cypher incluye los comandos empleados para crear los nodos y las relaciones, mientras que queries.cypher incluye los queries que se emplearon dentro de la aplicación.
+
+main.py incluye el código de nuestra aplicación, debe estar ejecutandose la base de datos para poder emplearse.
